@@ -27,7 +27,7 @@ Hra se ovládá pomocí kláves WASD pro pohyb a SPACE pro skok. Hráč musí sk
 
 Pro grafiku jsem použil assety, které jsem našel na internetu. Pozadí je vygenerované pomocí AI, takže to má trochu unikátní vzhled. Celkový styl je jednoduchý a zaměřuje se na to, aby hra vypadala čistě a přehledně.
 
-![Postava]([https://github.com/poapa12/hra/blob/main/README/image.png?raw=true](https://github.com/poapa12/hra/blob/main/README/Jump%20(32x32).png?raw=true))
+![Postava](https://github.com/poapa12/hra/blob/9e4548df06904384c2ffffe2d8c6a2d39cbd3a59/README/Jump%20(32x32).png)
 
 **Výstup:**
 - Grafický styl: 2D s jednoduchými platformami a postavami.
