@@ -67,6 +67,8 @@ Hra byla vytvořena v Godotu, kde jsem skládal grafiku, zvuky a herní logiku d
 
 Pro propagaci jsem vytvořil webovou stránku, která hráče informuje o hře. Na stránce jsou ukázky ze hry a obrázky.
 
+![Web](README/image.png)
+
 **Výstup:**
 - Propagace: Webová stránka, bannery.
 - Materiály: Webová stránka a vizuály pro propagaci.
