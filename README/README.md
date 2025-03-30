@@ -1,3 +1,5 @@
+
+
 # **Vývoj počítačové hry**
 
 ## Základní koncepce
@@ -67,7 +69,7 @@ Hra byla vytvořena v Godotu, kde jsem skládal grafiku, zvuky a herní logiku d
 
 Pro propagaci jsem vytvořil webovou stránku, která hráče informuje o hře. Na stránce jsou ukázky ze hry a obrázky.
 
-![Web](https://github.com/poapa12/hra/blob/main/README/image.png?raw=true)
+<img src="[images/logo.png](https://github.com/poapa12/hra/blob/main/README/image.png?raw=true)" alt="Web" width="300"/>
 
 **Výstup:**
 - Propagace: Webová stránka, bannery.
