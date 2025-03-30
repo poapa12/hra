@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Skákací Hra - Cesta domů!</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+        .header {
+            background: #FF4500;
+            color: white;
+            padding: 20px 0;
+            font-size: 24px;
+            font-weight: bold;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+        .banner {
+            width: 100%;
+            height: 200px;
+            background: url('hra.png') no-repeat center center/cover;
+            border-radius: 10px;
+        }
+        h1 {
+            color: #FF4500;
+        }
+        p {
+            font-size: 18px;
+        }
+        .features {
+            display: flex;
+            justify-content: space-around;
+            margin-top: 20px;
+        }
+        .feature {
+            width: 30%;
+            background: #FF4500;
+            color: white;
+            padding: 10px;
+            border-radius: 10px;
+        }
+        .game-images {
+            display: flex;
+            justify-content: space-around;
+            margin-top: 20px;
+        }
+        .game-images img {
+            width: 45%;
+            border-radius: 10px;
+        }
+        .download-button {
+            display: inline-block;
+            padding: 10px 20px;
+            margin-top: 15px;
+            font-size: 18px;
+            color: white;
+            background-color: #FF4500;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        .download-button:hover {
+            background-color: #E63900;
+        }
+        .footer {
+            margin-top: 30px;
+            padding: 10px;
+            background: #FF4500;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">Skákací Hra - Nejlepší dobrodružství!</div>
+    <div class="container">
+        <div class="banner"></div>
+        <h1>Zažij skákací akci!</h1>
+        <p>Proskákej se úrovněmi plnými výzev! Překonávej překážky, poraz rekordy!</p>
+        <div class="game-images">
+            <img src="hra2.png" alt="Hra ukázka 1">
+            <img src="hra3.png" alt="Hra ukázka 2">
+        </div>
+        <a href="#" class="download-button">Stáhnout hru</a>
+        <div class="features">
+            <div class="feature">🔥 Akční úrovně</div>
+            <div class="feature">🏆 Soutěž s přáteli</div>
+            <div class="feature">🎮 Snadné ovládání</div>
+        </div>
+    </div>
+    <div class="footer">© 2025 Skákací Hra. Všechna práva vyhrazena.</div>
+</body>
+</html>
