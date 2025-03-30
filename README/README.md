@@ -67,7 +67,7 @@ Hra byla vytvořena v Godotu, kde jsem skládal grafiku, zvuky a herní logiku d
 
 Pro propagaci jsem vytvořil webovou stránku, která hráče informuje o hře. Na stránce jsou ukázky ze hry a obrázky.
 
-![Web](README/image.png)
+![Web]([README/image.png](https://github.com/poapa12/hra/blob/e82344790ea5632b89040911c4f149847a8aa5df/README/image.png))
 
 **Výstup:**
 - Propagace: Webová stránka, bannery.
