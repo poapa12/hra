@@ -1,3 +1,5 @@
+
+
 # Základní koncepce
 
 Tahle hra je jednoduchá skákačka, kde se hráč snaží dostat zpátky domů. Cílem je dostat se z jeskyně až nahoru, vyhýbat se překážkám a skákat po různých platformách. Hra je 2D a běží na Godotu. Pozadí jsem vygeneroval pomocí AI a postavy a objekty jsem stáhl z internetu.
